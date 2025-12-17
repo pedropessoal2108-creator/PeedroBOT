@@ -57,4 +57,4 @@ https://discord.gg/aZPARCW7K6
 ## 8. Bot Invite
 
 Official invite link for the Bot:
-https://discord.com/oauth2/authorize?client_id=1450687898046304297&permissions=252334537501720&integration_type=0&scope=bot+applications.commands
+https://discord.com/oauth2/authorize?client_id=1450687898046304297&scope=bot%20applications.commands&permissions=2252334537501712
