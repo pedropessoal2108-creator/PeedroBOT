@@ -31,8 +31,8 @@ Peedro does not share data with third parties.
 
 ## Invite
 
-Invite Peedro to your server using the official link:  
-https://discord.com/oauth2/authorize?client_id=1450687898046304297&scope=bot%20applications.commands&permissions=252334537501712
+Invite Peedro to your server using the official link:
+https://discord.com/oauth2/authorize?client_id=1450687898046304297&scope=bot%20applications.commands&permissions=2252334537501712
 
 ## Support
 
